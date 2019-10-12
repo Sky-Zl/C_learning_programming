@@ -220,9 +220,3 @@ Case:2
 002:10 blue headquarter was taken
 
 */
-
-
-#include<iostream>
-int main(){
-	return 0;
-} 
